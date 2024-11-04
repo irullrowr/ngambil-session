@@ -17,7 +17,7 @@ global.config = {
             thumbnail: "https://e1.pxfuel.com/desktop-wallpaper/943/672/desktop-wallpaper-whatsapp-bot-what-is-it-and-how-to-use-messenger-chatbots-chatbot.jpg", // Gambar thumbnail bot
             profile: "https://i.ibb.co/3Fh9V6p/avatar-contact.png" // Foto profil bot
         },
-        website: "https://chat.whatsapp.com/FlqTGm4chSjKMsijcqAIJs" // Website untuk WhatsApp bot
+        website: "https://chat.whatsapp.com" // Website untuk WhatsApp bot
     },
 
     // Pesan bot yang disesuaikan untuk situasi tertentu
