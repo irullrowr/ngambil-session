@@ -10,9 +10,9 @@ const {
 global.config = {
     // Informasi bot dasar
     bot: {
-        name: "CKPTW", // Nama bot
+        name: "Power Ranger", // Nama bot
         prefix: /^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i, // Karakter awalan perintah yang diizinkan
-        phoneNumber: "", // Nomor telepon bot (opsional jika menggunakan QR code)
+        phoneNumber: "6285179956361", // Nomor telepon bot (opsional jika menggunakan QR code)
         picture: {
             thumbnail: "https://e1.pxfuel.com/desktop-wallpaper/943/672/desktop-wallpaper-whatsapp-bot-what-is-it-and-how-to-use-messenger-chatbots-chatbot.jpg", // Gambar thumbnail bot
             profile: "https://i.ibb.co/3Fh9V6p/avatar-contact.png" // Foto profil bot
@@ -44,10 +44,10 @@ global.config = {
 
     // Informasi owner bot
     owner: {
-        name: "", // Nama owner bot
-        number: "", // Nomor telepon owner bot
-        organization: "", // Nama organisasi owner bot
-        co: [""] // Nomor co-owner bot
+        name: "X1", // Nama owner bot
+        number: "6285179956361", // Nomor telepon owner bot
+        organization: "X2", // Nama organisasi owner bot
+        co: ["6285179956361"] // Nomor co-owner bot
     },
 
     // Konfigurasi stiker bot
